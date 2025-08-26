@@ -1,6 +1,6 @@
 # 卫星坐标解算
 本软件使用用户下载的广播星历对文件内卫星的坐标进行计算，使用精密星历进行验证，并使用三维视图进行可视化。  
-**本人使用Qt Creator 14.0.2 (Community)版本完成所有代码编写、程序运行工作。**
+**本人使用Qt Creator的14.0.2 (Community)版本完成所有代码编写、程序运行工作，使用Qt Creator打开demo4.pro文件即可导入所有代码文件。**
 
 相关链接：[程序UI视频展示](https://www.bilibili.com/video/BV1A3FDeBECB/)、[Enigma Virtual Box程序封装教程](https://www.cnblogs.com/findumars/p/6256856.html)、[星历文件命名解读方式](https://blog.csdn.net/Gou_Hailong/article/details/109191352)。
 
